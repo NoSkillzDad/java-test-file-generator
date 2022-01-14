@@ -1,0 +1,6 @@
+nameShouldNotBeChangedDuringCreation
+personWithoutNameShouldBeNamedJohn
+ageShouldAddOneYear
+lastNameShouldStartWithUpperCaseWhenLowerCaseGiven
+givenAPartnerHasPartnerShouldReturnTrue
+childShouldBeAddedToList
